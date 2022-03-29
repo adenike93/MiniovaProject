@@ -1,0 +1,85 @@
+.destination {
+    padding-top: 75px;
+}
+
+.city {
+    text-align: center;
+}
+
+#email{
+    color: maroon;
+    font-weight: bold;
+}
+
+#password{
+    color: maroon;
+    font-weight: bold;
+}
+
+form{
+    text-align: center;
+    background: white;
+
+}
+ body{
+     background-color: white;
+ }
+
+ #username{
+     color: maroon;
+     font-weight: bold;
+ }
+
+ #mobile{
+     color: maroon;
+     font-weight: bold;
+ }
+ #emailsignup{
+    color: maroon;
+    font-weight: bold;
+ }
+
+ #passsignup{
+    color: maroon;
+    font-weight: bold;
+ } 
+
+ #confirmpass{
+      color: maroon;
+    font-weight: bold;
+ }
+
+ #mide{
+     padding: 20px 0 40px 0;
+     box-sizing: content-box;
+ }
+ .loginn{
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+ .loginn{
+    padding: 16px;
+  }
+ 
+  *{
+      margin: 0;
+      padding: 0;
+  }
+ .experiences {
+     width: 100%;
+     height: 500px;
+
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: space-between;
+     align-items: flex-end; 
+     
+ 
+
+
+  }
+
+  .experiences-links{
+      height: 100px;
+  }
